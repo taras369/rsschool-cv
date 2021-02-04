@@ -2,7 +2,10 @@
 # **My CV**
 ## 1. Taras Kyrnychnyi  
 ---	
-### 2. E-mail: taras369ky@gmail.com
+### 2. Contacts:
+* E-mail: taras369ky@gmail.com
+* Phone number: +380-68-724-3830
+        
 ---	
 ### 3. Short information:
 * Confident PC user 
