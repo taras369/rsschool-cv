@@ -9,8 +9,10 @@
         background-color:orange;
         height: 2px;
     }
-    li {
+    ul{
+        list-style: inside;
         list-style-image: url(/icons/checkmark.png);
+    li {
         padding-left: 24px;
         line-height: 25px;
     }
