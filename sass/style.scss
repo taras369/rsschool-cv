@@ -10,9 +10,7 @@
         height: 2px;
     }
     li {
-        list-style: none;
-        background: url(/icons/checkmark.png) no-repeat 0 4px;
-        list-style-position: inside;
+        list-style-image: url(/icons/checkmark.png) no-repeat 0 4px;
         padding-left: 24px;
         line-height: 25px;
     }
